@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: C'est moi, kesh
 subtitle: why lucas raymond is the best LW ever
 ---
 
