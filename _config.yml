@@ -21,9 +21,14 @@ author: Keshavi Dave
 
 navbar-links:
   About Me: "aboutme"
+  My Work:
+    - GitHub: "https://github.com/keshdave"
   Resume/CV:
     - Resume: "resume"
     # - CV: "cv" will add later
+  Contact:
+    - LinkedIn: "https://www.linkedin.com/in/keshavi-dave"
+    - Email: "keshavid@gmail.com"
 
 ################
 # --- Logo --- #
