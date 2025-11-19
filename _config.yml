@@ -23,8 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resume/CV:
     - Resume: "resume"
-    - CV: "https://www.markdowntutorial.com/"
-
+    # - CV: "cv" will add later
 
 ################
 # --- Logo --- #
