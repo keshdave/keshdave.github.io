@@ -22,7 +22,7 @@ author: Keshavi Dave
 navbar-links:
   About Me: "aboutme"
   Resume/CV:
-    - Resume: "https://beautifuljekyll.com"
+    - Resume: "resume"
     - CV: "https://www.markdowntutorial.com/"
 
 
